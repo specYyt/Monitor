@@ -1,0 +1,31 @@
+{
+    'services': {
+        'LinuxCpu': [
+            'GetLinuxCpuStatus',
+            60
+        ],
+        'LinuxNetwork': [
+            'GetLinuxNetworkStatus',
+            30
+        ],
+        'LinuxMemory': [
+            'GetLinuxMemoryStatus',
+            90
+        ]
+    }
+}Loadedlatestconfig: {
+    'services': {
+        'LinuxCpu': [
+            'GetLinuxCpuStatus',
+            60
+        ],
+        'LinuxNetwork': [
+            'GetLinuxNetworkStatus',
+            30
+        ],
+        'LinuxMemory': [
+            'GetLinuxMemoryStatus',
+            90
+        ]
+    }
+}
